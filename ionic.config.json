@@ -1,0 +1,8 @@
+{
+  "name": "Uork",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "153e70dc"
+}
